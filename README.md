@@ -17,7 +17,7 @@ applications:
 * [AngularJS][ngJS]: [angular/angular.js](http://github.com/angular/angular.js).
 * [AngularDart][ngDart]: [angular/angular.dart](http://github.com/angular/angular.dart).
 
-## Quickstart howdy
+## Quickstart
 
 [Get started in 5 minutes][quickstart]
 
